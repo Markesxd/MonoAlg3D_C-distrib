@@ -1,0 +1,507 @@
+[
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/sds", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/sds/sds.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/objs/sds.c.o", 
+"file": "sds.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config_helpers", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config_helpers/config_helpers.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/objs/config_helpers.c.o", 
+"file": "config_helpers.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/utils", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/utils/search.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/objs/search.c.o", 
+"file": "search.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/utils", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/utils/stop_watch.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/objs/stop_watch.c.o", 
+"file": "stop_watch.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/utils", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/utils/sort.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/objs/sort.c.o", 
+"file": "sort.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/utils", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/utils/file_utils.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/objs/file_utils.c.o", 
+"file": "file_utils.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/grid", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/grid/grid.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/objs/grid.c.o", 
+"file": "grid.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/grid", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/grid/grid_refinement.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/objs/grid_refinement.c.o", 
+"file": "grid_refinement.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/grid", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/grid/grid_derefinement.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/objs/grid_derefinement.c.o", 
+"file": "grid_derefinement.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/cell", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/cell/cell.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/objs/cell.c.o", 
+"file": "cell.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/cell", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/cell/cell_derefinement.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/objs/cell_derefinement.c.o", 
+"file": "cell_derefinement.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/cell", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/cell/cell_refinement.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/objs/cell_refinement.c.o", 
+"file": "cell_refinement.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/grid_purkinje", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/alg/grid_purkinje/grid_purkinje.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/objs/grid_purkinje.c.o", 
+"file": "grid_purkinje.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/monodomain", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/monodomain/monodomain_solver.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/objs/monodomain_solver.c.o", 
+"file": "monodomain_solver.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/ode_solver", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/ode_solver/ode_solver.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/objs/ode_solver.c.o", 
+"file": "ode_solver.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/ini_parser", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/ini_parser/ini.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libini_parser/objs/ini.c.o", 
+"file": "ini.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/config_common.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/config_common.c.o", 
+"file": "config_common.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/stim_config.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/stim_config.c.o", 
+"file": "stim_config.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/domain_config.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/domain_config.c.o", 
+"file": "domain_config.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/purkinje_config.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/purkinje_config.c.o", 
+"file": "purkinje_config.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/assembly_matrix_config.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/assembly_matrix_config.c.o", 
+"file": "assembly_matrix_config.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/extra_data_config.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/extra_data_config.c.o", 
+"file": "extra_data_config.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/linear_system_solver_config.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/linear_system_solver_config.c.o", 
+"file": "linear_system_solver_config.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/config_parser.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/config_parser.c.o", 
+"file": "config_parser.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/save_mesh_config.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/save_mesh_config.c.o", 
+"file": "save_mesh_config.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/save_state_config.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/save_state_config.c.o", 
+"file": "save_state_config.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/restore_state_config.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/restore_state_config.c.o", 
+"file": "restore_state_config.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/update_monodomain_config.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/update_monodomain_config.c.o", 
+"file": "update_monodomain_config.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/config", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/config/postprocessor_config.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/objs/postprocessor_config.c.o", 
+"file": "postprocessor_config.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/graph", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/graph/graph.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/objs/graph.c.o", 
+"file": "graph.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/graph", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/graph/pqueue.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/objs/pqueue.c.o", 
+"file": "pqueue.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/xml_parser", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/xml_parser/yxml.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libyxml/objs/yxml.c.o", 
+"file": "yxml.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/tinyexpr", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/tinyexpr/tinyexpr.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/objs/tinyexpr.c.o", 
+"file": "tinyexpr.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/miniz", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/miniz/miniz.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libminiz/objs/miniz.c.o", 
+"file": "miniz.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/vtk_utils", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/vtk_utils/pvd_utils.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libvtk_utils/objs/pvd_utils.c.o", 
+"file": "pvd_utils.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/vtk_utils", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/vtk_utils/data_utils.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libvtk_utils/objs/data_utils.c.o", 
+"file": "data_utils.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/vtk_utils", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/vtk_utils/vtk_polydata_grid.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libvtk_utils/objs/vtk_polydata_grid.c.o", 
+"file": "vtk_polydata_grid.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/vtk_utils", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/vtk_utils/vtk_unstructured_grid.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libvtk_utils/objs/vtk_unstructured_grid.c.o", 
+"file": "vtk_unstructured_grid.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/logger", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/logger/logger.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/liblogger/objs/logger.c.o", 
+"file": "logger.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/tinyfiledialogs", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/tinyfiledialogs/tinyfiledialogs.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyfiledialogs/objs/tinyfiledialogs.c.o", 
+"file": "tinyfiledialogs.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/gui", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/gui/gui.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgui/objs/gui.c.o", 
+"file": "gui.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/gui", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/gui/raylib_ext.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgui/objs/raylib_ext.c.o", 
+"file": "raylib_ext.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/gpu_utils", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/gpu_utils/gpu_utils.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/objs/gpu_utils.c.o", 
+"file": "gpu_utils.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/bondarenko", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/bondarenko/bondarenko_2004.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libbondarenko_2004/objs/bondarenko_2004.c.o", 
+"file": "bondarenko_2004.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/courtemanche_ramirez_nattel_1998", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/courtemanche_ramirez_nattel_1998/courtemanche_ramirez_nattel_1998.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libcourtemanche_ramirez_nattel_1998/objs/courtemanche_ramirez_nattel_1998.c.o", 
+"file": "courtemanche_ramirez_nattel_1998.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/difrancesco", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/difrancesco/difrancesco.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdifrancesco/objs/difrancesco.c.o", 
+"file": "difrancesco.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/fhn", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/fhn/fhn_mod.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libfhn_mod/objs/fhn_mod.c.o", 
+"file": "fhn_mod.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/li_rudy", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/li_rudy/li_rudy_2011.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libli_rudy_2011/objs/li_rudy_2011.c.o", 
+"file": "li_rudy_2011.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/luo_rudy", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/luo_rudy/luo_rudy_1991.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libluo_rudy_1991/objs/luo_rudy_1991.c.o", 
+"file": "luo_rudy_1991.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/maleckar", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/maleckar/Maleckar2008.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libMaleckar2008/objs/Maleckar2008.c.o", 
+"file": "Maleckar2008.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/maleckar", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/maleckar/Maleckar2009.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libMaleckar2009/objs/Maleckar2009.c.o", 
+"file": "Maleckar2009.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/mitchell_shaeffer", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/mitchell_shaeffer/mitchell_shaeffer_2003.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmitchell_shaeffer_2003/objs/mitchell_shaeffer_2003.c.o", 
+"file": "mitchell_shaeffer_2003.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/noble", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/noble/noble_1962.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libnoble_1962/objs/noble_1962.c.o", 
+"file": "noble_1962.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/Ohara_Rudy", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/Ohara_Rudy/Ohara_Rudy_2011.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libohara_rudy_endo_2011/objs/Ohara_Rudy_2011.c.o", 
+"file": "Ohara_Rudy_2011.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/stewart_aslanidi_noble", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/stewart_aslanidi_noble/stewart_aslanidi_noble_2009.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libstewart_aslanidi_noble_2009/objs/stewart_aslanidi_noble_2009.c.o", 
+"file": "stewart_aslanidi_noble_2009.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher/ten_tusscher_2006_RS_CPU.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libten_tusscher_2006/objs/ten_tusscher_2006_RS_CPU.c.o", 
+"file": "ten_tusscher_2006_RS_CPU.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher/ten_tusscher_2004_RS_CPU.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libten_tusscher_2004_endo/objs/ten_tusscher_2004_RS_CPU.c.o", 
+"file": "ten_tusscher_2004_RS_CPU.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI -DENDO -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher/ten_tusscher_3_RS_CPU.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libten_tusscher_3_endo/objs/ten_tusscher_3_RS_CPU.c.o", 
+"file": "ten_tusscher_3_RS_CPU.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI -DEPI -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher/ten_tusscher_3_RS_CPU.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libten_tusscher_3_epi/objs/ten_tusscher_3_RS_CPU.c.o", 
+"file": "ten_tusscher_3_RS_CPU.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher/ten_tusscher_2004_RS_CPU_epi.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libten_tusscher_2004_epi/objs/ten_tusscher_2004_RS_CPU_epi.c.o", 
+"file": "ten_tusscher_2004_RS_CPU_epi.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher/mixed_tentusscher_myo_epi_2004.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmixed_tentusscher_myo_epi_2004/objs/mixed_tentusscher_myo_epi_2004.c.o", 
+"file": "mixed_tentusscher_myo_epi_2004.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ten_tusscher/ten_tusscher_2004_mixed_endo_mid_epi.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libten_tusscher_2004_mixed_endo_mid_epi/objs/ten_tusscher_2004_mixed_endo_mid_epi.c.o", 
+"file": "ten_tusscher_2004_mixed_endo_mid_epi.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ToROrd", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ToROrd/ToRORd_fkatp_endo.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libToRORd_fkatp_endo/objs/ToRORd_fkatp_endo.c.o", 
+"file": "ToRORd_fkatp_endo.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ToROrd", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/ToROrd/ToRORd_fkatp_mixed_endo_mid_epi.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libToRORd_fkatp_mixed_endo_mid_epi/objs/ToRORd_fkatp_mixed_endo_mid_epi.c.o", 
+"file": "ToRORd_fkatp_mixed_endo_mid_epi.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/trovato", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/models_library/trovato/trovato_2019.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtrovato_2019/objs/trovato_2019.c.o", 
+"file": "trovato_2019.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/stimuli_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/stimuli_library/stimuli.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_stimuli/objs/stimuli.c.o", 
+"file": "stimuli.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/stimuli_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/stimuli_library/custom_functions.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_stimuli/objs/custom_functions.c.o", 
+"file": "custom_functions.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/domains_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/domains_library/domain.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_domains/objs/domain.c.o", 
+"file": "domain.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/domains_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/domains_library/custom_functions.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_domains/objs/custom_functions.c.o", 
+"file": "custom_functions.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/domains_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/domains_library/domain_helpers.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_domains/objs/domain_helpers.c.o", 
+"file": "domain_helpers.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/purkinje_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/purkinje_library/purkinje.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_purkinje/objs/purkinje.c.o", 
+"file": "purkinje.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/purkinje_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/purkinje_library/purkinje_helpers.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_purkinje/objs/purkinje_helpers.c.o", 
+"file": "purkinje_helpers.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/extra_data_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/extra_data_library/extra_data.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_extra_data/objs/extra_data.c.o", 
+"file": "extra_data.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/extra_data_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/extra_data_library/helper_functions.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_extra_data/objs/helper_functions.c.o", 
+"file": "helper_functions.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/extra_data_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/extra_data_library/custom_functions.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_extra_data/objs/custom_functions.c.o", 
+"file": "custom_functions.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/matrix_assembly_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/matrix_assembly_library/matrix_assembly.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_matrix_assembly/objs/matrix_assembly.c.o", 
+"file": "matrix_assembly.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/matrix_assembly_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/matrix_assembly_library/purkinje_matrix_assembly.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libpurkinje_matrix_assembly/objs/purkinje_matrix_assembly.c.o", 
+"file": "purkinje_matrix_assembly.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/matrix_assembly_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/matrix_assembly_library/purkinje_coupling_matrix_assembly.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libpurkinje_coupling_matrix_assembly/objs/purkinje_coupling_matrix_assembly.c.o", 
+"file": "purkinje_coupling_matrix_assembly.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/linear_system_solver_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/linear_system_solver_library/linear_system_solver.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_linear_system_solver/objs/linear_system_solver.c.o", 
+"file": "linear_system_solver.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/save_mesh_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/save_mesh_library/save_mesh_helper.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_save_mesh/objs/save_mesh_helper.c.o", 
+"file": "save_mesh_helper.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/save_mesh_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/save_mesh_library/save_mesh.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_save_mesh/objs/save_mesh.c.o", 
+"file": "save_mesh.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/save_mesh_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/save_mesh_library/save_mesh_helper.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_save_mesh_purkinje/objs/save_mesh_helper.c.o", 
+"file": "save_mesh_helper.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/save_mesh_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/save_mesh_library/save_mesh_purkinje.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_save_mesh_purkinje/objs/save_mesh_purkinje.c.o", 
+"file": "save_mesh_purkinje.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/save_state_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/save_state_library/save_state.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_save_state/objs/save_state.c.o", 
+"file": "save_state.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/restore_state_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/restore_state_library/restore_state.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_restore_state/objs/restore_state.c.o", 
+"file": "restore_state.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/update_monodomain_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/update_monodomain_library/update_monodomain.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_update_monodomain/objs/update_monodomain.c.o", 
+"file": "update_monodomain.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/modify_domain", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/modify_domain/modify_domain.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_modify_domain/objs/modify_domain.c.o", 
+"file": "modify_domain.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  src/main_simulator.c /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/libmonodomain.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/libode_solver.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libini_parser/libini_parser.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/libtinyexpr.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgui/libgui.a /home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/raylib/libraylib.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyfiledialogs/libtinyfiledialogs.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/libgpu_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/libconfig_helpers.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libvtk_utils/libvtk_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libyxml/libyxml.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libminiz/libminiz.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/bin/MonoAlg3D -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -ldl -lm -lcudart -lOpenGL -lGLX -lGLU -lpthread -lX11 -lrt -llogger -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "main_simulator.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  src/main_visualizer.c /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/libmonodomain.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/libode_solver.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libini_parser/libini_parser.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/libtinyexpr.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgui/libgui.a /home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/raylib/libraylib.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyfiledialogs/libtinyfiledialogs.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/libgpu_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/libconfig_helpers.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libvtk_utils/libvtk_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libyxml/libyxml.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libminiz/libminiz.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/bin/MonoAlg3D_visualizer -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -ldl -lm -lcudart -lOpenGL -lGLX -lGLU -lpthread -lX11 -lrt -llogger -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "main_visualizer.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  src/main_converter.c /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/libmonodomain.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/libode_solver.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libini_parser/libini_parser.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/libtinyexpr.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgui/libgui.a /home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/raylib/libraylib.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyfiledialogs/libtinyfiledialogs.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/libgpu_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/libconfig_helpers.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libvtk_utils/libvtk_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libyxml/libyxml.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libminiz/libminiz.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/bin/MonoAlg3D_converter -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -ldl -lm -lcudart -lOpenGL -lGLX -lGLU -lpthread -lX11 -lrt -llogger -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "main_converter.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  src/main_fiber_converter.c /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/libmonodomain.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/libode_solver.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libini_parser/libini_parser.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/libtinyexpr.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgui/libgui.a /home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/raylib/libraylib.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyfiledialogs/libtinyfiledialogs.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/libgpu_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/libconfig_helpers.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libvtk_utils/libvtk_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libyxml/libyxml.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libminiz/libminiz.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/bin/MonoAlg3D_fiber_converter -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -ldl -lm -lcudart -lOpenGL -lGLX -lGLU -lpthread -lX11 -lrt -llogger -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "main_fiber_converter.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  src/main_postprocessor.c /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/libmonodomain.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/libode_solver.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libini_parser/libini_parser.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/libtinyexpr.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgui/libgui.a /home/sachetto/Projects/MonoAlg3D_C_ana/src/3dparty/raylib/libraylib.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyfiledialogs/libtinyfiledialogs.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/libgpu_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/libconfig_helpers.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libvtk_utils/libvtk_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libyxml/libyxml.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libminiz/libminiz.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/bin/MonoAlg3D_postprocessor -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -ldl -lm -lcudart -lOpenGL -lGLX -lGLU -lpthread -lX11 -lrt -llogger -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "main_postprocessor.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/postprocessing_library", 
+"command": "/opt/cuda/bin/gcc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  -fPIC -c /home/sachetto/Projects/MonoAlg3D_C_ana/src/postprocessing_library/postprocessing.c -o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libdefault_postprocess/objs/postprocessing.c.o", 
+"file": "postprocessing.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/tests", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  test_solvers.c /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/libmonodomain.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/libode_solver.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/libtinyexpr.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/libgpu_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/libconfig_helpers.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/tests_bin/TestSolvers -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -lcudart -lcriterion -ldl -lm -llogger -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "test_solvers.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/tests", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  test_mesh.c /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/tests_bin/TestMesh -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -lcudart -lcriterion -ldl -lm -llogger -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "test_mesh.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/tests", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  test_simulations.c  common.o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/libmonodomain.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/libode_solver.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libini_parser/libini_parser.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/libtinyexpr.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/libgpu_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/libconfig_helpers.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/tests_bin/TestSimulations -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -lcudart -lcriterion -ldl -lm -llogger -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "test_simulations.c  common.o" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/tests", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  test_libs.c /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/tests_bin/TestLibs -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -lcudart -lcriterion -ldl -lm -llogger -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "test_libs.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/tests", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  profile_mesh_load.c /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/libmonodomain.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/libode_solver.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/libtinyexpr.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/libgpu_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/libconfig_helpers.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/tests_bin/MeshProfiler -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -lcudart -lcriterion -ldl -lm -llogger -lgdbm -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "profile_mesh_load.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/tests", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  profile_custom_mesh_load.c /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/libmonodomain.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/libode_solver.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/libtinyexpr.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/libgpu_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/libconfig_helpers.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/tests_bin/Custom_meshProfiler -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -lcudart -lcriterion -ldl -lm -llogger -lgdbm -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "profile_custom_mesh_load.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/tests", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  profile_linear_system_solvers.c /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/libmonodomain.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/libode_solver.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/libtinyexpr.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/libgpu_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/libconfig_helpers.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/tests_bin/SolversProfiler -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -lcudart -lcriterion -ldl -lm -llogger -lgdbm -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "profile_linear_system_solvers.c" 
+},
+{
+"directory": "/home/sachetto/Projects/MonoAlg3D_C_ana/src/tests", 
+"command": "mpicc -DCELL_MODEL_REAL_DOUBLE -O3 -fopenmp -std=gnu99 -fno-strict-aliasing  -Wall -Wno-stringop-truncation -Wno-unused-function -Wno-char-subscripts -Wno-unused-result -Wno-switch -Werror=implicit-function-declaration -DCOMPILE_CUDA -I/opt/cuda/include -DCOMPILE_GUI  profile_simulation.c common.o /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libmonodomain/libmonodomain.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libode_solver/libode_solver.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libini_parser/libini_parser.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig/libconfig.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libtinyexpr/libtinyexpr.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgpu_utils/libgpu_utils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libconfig_helpers/libconfig_helpers.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libalg/libalg.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libgraph/libgraph.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libutils/libutils.a /home/sachetto/Projects/MonoAlg3D_C_ana/build_release/libsds/libsds.a  -o /home/sachetto/Projects/MonoAlg3D_C_ana/tests_bin/SimulationProfiler -L/opt/cuda/lib64 -L/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs -lcudart -lcriterion -ldl -lm -llogger -lgdbm -Wl,-rpath=/home/sachetto/Projects/MonoAlg3D_C_ana/shared_libs", 
+"file": "profile_simulation.c common.o" 
+},
+]
